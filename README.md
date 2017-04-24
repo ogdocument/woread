@@ -64,4 +64,4 @@ http://xxx.xxx.xxx.xxx:8080/woread/100
 | - | - | - |
 | url | - | 提交给官方服务器URL |
 | method | post | 提交给官方服务器方式 |
-| content | 00000002XXX7 | 提交给官方服务器加密后的内容 |
+| content | 00000002XXX7 | 提交给官方服务器加密后的内容 **需要 URL DECODE 后，再提交给联通** |
